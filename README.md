@@ -16,7 +16,7 @@
 <h3 align="center">👨‍💻 About Me </h3>
 
 
-- 👨‍🎓 Full-time _Computer Science and Artificial Intelligence_ student studying at the _University of Liverpool_.
+- 👨‍🎓 Full-time _Advanced Computer Science_ student studying at the _Oxford University_.
 - 🌱 Learning how to become a pragmatic software developer and artificial intelligence engineer.
 - 💙 I love software and science.
 
